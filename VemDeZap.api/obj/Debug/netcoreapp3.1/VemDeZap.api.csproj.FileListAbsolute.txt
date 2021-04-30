@@ -1,0 +1,6 @@
+C:\Users\albert.mascarenhas\source\repos\VemDeZap\VemDeZap.api\obj\Debug\netcoreapp3.1\VemDeZap.api.csprojAssemblyReference.cache
+C:\Users\albert.mascarenhas\source\repos\VemDeZap\VemDeZap.api\obj\Debug\netcoreapp3.1\VemDeZap.api.AssemblyInfoInputs.cache
+C:\Users\albert.mascarenhas\source\repos\VemDeZap\VemDeZap.api\obj\Debug\netcoreapp3.1\VemDeZap.api.AssemblyInfo.cs
+C:\Users\albert.mascarenhas\source\repos\VemDeZap\VemDeZap.api\obj\Debug\netcoreapp3.1\VemDeZap.api.csproj.CoreCompileInputs.cache
+C:\Users\albert.mascarenhas\source\repos\VemDeZap\VemDeZap.api\obj\Debug\netcoreapp3.1\VemDeZap.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\albert.mascarenhas\source\repos\VemDeZap\VemDeZap.api\obj\Debug\netcoreapp3.1\VemDeZap.api.MvcApplicationPartsAssemblyInfo.cache

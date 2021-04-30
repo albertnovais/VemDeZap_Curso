@@ -1,0 +1,10 @@
+C:\Users\albert.mascarenhas\source\repos\VemDeZap\VemDeZap.Domain\bin\Debug\netcoreapp3.1\VemDeZap.Domain.deps.json
+C:\Users\albert.mascarenhas\source\repos\VemDeZap\VemDeZap.Domain\bin\Debug\netcoreapp3.1\VemDeZap.Domain.dll
+C:\Users\albert.mascarenhas\source\repos\VemDeZap\VemDeZap.Domain\bin\Debug\netcoreapp3.1\VemDeZap.Domain.pdb
+C:\Users\albert.mascarenhas\source\repos\VemDeZap\VemDeZap.Domain\obj\Debug\netcoreapp3.1\VemDeZap.Domain.Resources.MSG.resources
+C:\Users\albert.mascarenhas\source\repos\VemDeZap\VemDeZap.Domain\obj\Debug\netcoreapp3.1\VemDeZap.Domain.csproj.GenerateResource.cache
+C:\Users\albert.mascarenhas\source\repos\VemDeZap\VemDeZap.Domain\obj\Debug\netcoreapp3.1\VemDeZap.Domain.AssemblyInfoInputs.cache
+C:\Users\albert.mascarenhas\source\repos\VemDeZap\VemDeZap.Domain\obj\Debug\netcoreapp3.1\VemDeZap.Domain.AssemblyInfo.cs
+C:\Users\albert.mascarenhas\source\repos\VemDeZap\VemDeZap.Domain\obj\Debug\netcoreapp3.1\VemDeZap.Domain.csproj.CoreCompileInputs.cache
+C:\Users\albert.mascarenhas\source\repos\VemDeZap\VemDeZap.Domain\obj\Debug\netcoreapp3.1\VemDeZap.Domain.dll
+C:\Users\albert.mascarenhas\source\repos\VemDeZap\VemDeZap.Domain\obj\Debug\netcoreapp3.1\VemDeZap.Domain.pdb
